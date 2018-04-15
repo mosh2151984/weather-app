@@ -1,2 +1,2 @@
 # weather-app
-simple wether app
+~simple wether app~
